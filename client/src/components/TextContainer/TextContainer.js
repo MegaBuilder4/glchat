@@ -8,7 +8,7 @@ const TextContainer = ({ users }) => (
   <div className="textContainer">
     <div>
       <h1>GL CHAT 2.0 <span role="img" aria-label="emoji">💬</span></h1>
-      <h2>Created by Landon & Gavin <span role="img" aria-label="emoji"></span></h2>
+      <h2>Created by Main Crystal & G-only1 <span role="img" aria-label="emoji"></span></h2>
       <h2><span role="img" aria-label="emoji"></span></h2>
     </div>
     {
